@@ -1,0 +1,1 @@
+from .propietario import PropietarioSerializer
